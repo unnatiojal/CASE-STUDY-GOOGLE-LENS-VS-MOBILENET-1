@@ -1,0 +1,51 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.copyright_footer{
+    position: fixed;
+    color: #6c757d;
+    bottom: 10px;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+}
+
+.header_div {
+    background-color: white;
+    color: #ce2700;
+}
+
+#img_1 {
+    width: 150px;
+}
+
+.test_image_and_result
+{
+    margin-top: 15px;
+    background-color: rgb(155, 153, 153);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:99%;
+    margin-bottom: 15px;
+}
+
+ img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+li {
+    float: left;
+}
+
+h5{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+}
